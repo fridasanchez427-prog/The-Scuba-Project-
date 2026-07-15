@@ -66,6 +66,10 @@
     <Compile Include="Assets/[Scripts]/AnimationScript.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleVisibility.cs" />
     <Compile Include="Assets/[Scripts]/Actions/TranslateObject.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/FishConstant.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets/[Scripts]/Conditions/OnTilt.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnTrigger.cs" />
     <Compile Include="Assets/Settings/[VR]/Scripts/PlayerMovement.cs" />
@@ -81,6 +85,10 @@
     <Compile Include="Assets/[Scripts]/Conditions/OnTimedInterval.cs" />
     <Compile Include="Assets/[Scripts]/Actions/TeleportPlayer.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnPull.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/ReachPoint.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets/[Scripts]/Actions/ToggleLight.cs" />
     <Compile Include="Assets/[Scripts]/Actions/LoadScene.cs" />
     <Compile Include="Assets/Settings/[Scripts]/StartupXRCheck.cs" />
@@ -105,10 +113,18 @@
     <Compile Include="Assets/[Scripts]/Actions/SetLightIntensity.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleParticle.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnVelocity.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/FishMotion.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets/[Scripts]/Actions/ScaleObject.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SpawnFromList.cs" />
     <Compile Include="Assets/[Scripts]/Actions/PlaySoundsFromList.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnJoystickMove.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/SwimConfig.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets/[Scripts]/Actions/SetVolume.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetMaterialColor.cs" />
     <Compile Include="Assets/Settings/[VR]/Scripts/InheritTransform.cs" />
@@ -125,7 +141,13 @@
     <Compile Include="Assets/[Scripts]/Actions/ShowMessageFromList.cs" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <None Include="Assets/Settings/VFX/ColumnGlow.shader" />
+=======
+    <None Include="Assets/DenysAlmaral/FishAlive/URP&amp;Built-in/Readme.txt" />
+    <None Include="Assets/Settings/VFX/ColumnGlow.shader" />
+    <None Include="Assets/DenysAlmaral/FishAlive/Readme_FreeSamples.txt" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

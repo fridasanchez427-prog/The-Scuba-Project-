@@ -67,7 +67,13 @@
     <Compile Include="Assets/Settings/Editor/XRKnobEditor.cs" />
     <Compile Include="Assets/Settings/Editor/XRJoystickEditor.cs" />
     <Compile Include="Assets/Settings/Editor/XRSliderEditor.cs" />
+<<<<<<< Updated upstream
     <Compile Include="Assets/Settings/Editor/XRButtonEditor.cs" />
+=======
+    <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/Editor/ReadmeReaderEditor.cs" />
+    <Compile Include="Assets/Settings/Editor/XRButtonEditor.cs" />
+    <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/Editor/ReadmeReader.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets/Settings/Editor/XRLeverEditor.cs" />
   </ItemGroup>
   <ItemGroup>
