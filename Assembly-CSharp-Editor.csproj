@@ -59,6 +59,7 @@
     <UnityVersion>2022.3.31f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="/Users/missionbit/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.2.2/Analyzers/Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -67,13 +68,9 @@
     <Compile Include="Assets/Settings/Editor/XRKnobEditor.cs" />
     <Compile Include="Assets/Settings/Editor/XRJoystickEditor.cs" />
     <Compile Include="Assets/Settings/Editor/XRSliderEditor.cs" />
-<<<<<<< Updated upstream
-    <Compile Include="Assets/Settings/Editor/XRButtonEditor.cs" />
-=======
     <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/Editor/ReadmeReaderEditor.cs" />
     <Compile Include="Assets/Settings/Editor/XRButtonEditor.cs" />
     <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/Editor/ReadmeReader.cs" />
->>>>>>> Stashed changes
     <Compile Include="Assets/Settings/Editor/XRLeverEditor.cs" />
   </ItemGroup>
   <ItemGroup>
