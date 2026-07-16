@@ -135,6 +135,7 @@
     <None Include="Assets/DenysAlmaral/FishAlive/URP&amp;Built-in/Readme.txt" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/WobbleFx_Overlay.shader" />
     <None Include="Assets/Settings/VFX/ColumnGlow.shader" />
+    <None Include="Assets/LoafbrrAssets/MInesAndCaveSet/README.txt" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/Sprite-WobbleFx_Screen.shader" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/WobbleFx.shader" />
     <None Include="Assets/vinicius develops/README.txt" />
