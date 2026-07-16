@@ -27224,6 +27224,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7043853987381725312 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8816976161060826836, guid: 82d538ac290ee5d4cbee1e021a136553,
+    type: 3}
+  m_PrefabInstance: {fileID: 7043853987381725280}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7043853987381725288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03a5df2202a8b96488c744be3bd0c33e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &7043853987381725319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27358,7 +27370,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 496880615cd240be960d436c1c8ae570, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_System: {fileID: 0}
+  m_System: {fileID: 7043853987381725312}
   m_ClimbSettings:
     m_UseConstant: 1
     m_ConstantValue:
