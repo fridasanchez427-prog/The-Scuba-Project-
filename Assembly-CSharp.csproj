@@ -28,7 +28,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp/bin/Debug/</OutputPath>
-    <DefineConstants>UNITY_2022_3_31;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_3_31;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
@@ -55,7 +55,7 @@
     <UnityProjectGeneratorVersion>2.0.22</UnityProjectGeneratorVersion>
     <UnityProjectGeneratorStyle>SDK</UnityProjectGeneratorStyle>
     <UnityProjectType>Game:1</UnityProjectType>
-    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityBuildTarget>StandaloneOSX:2</UnityBuildTarget>
     <UnityVersion>2022.3.31f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
@@ -63,14 +63,22 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs" />
     <Compile Include="Assets/[Scripts]/AnimationScript.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleVisibility.cs" />
     <Compile Include="Assets/[Scripts]/Actions/TranslateObject.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs" />
     <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/FishConstant.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnTilt.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnTrigger.cs" />
     <Compile Include="Assets/Settings/[VR]/Scripts/PlayerMovement.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetParticleRate.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ApplyPhysics.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ManuallySelectObject.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnSceneLoad.cs" />
@@ -79,72 +87,179 @@
     <Compile Include="Assets/vinicius develops/Wobble Effect/WaterCamera.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnCollision.cs" />
     <Compile Include="Assets/[Scripts]/Actions/FadeCanvas.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs" />
     <Compile Include="Assets/[Scripts]/Actions/VibrateController.cs" />
     <Compile Include="Assets/[Scripts]/Actions/PlayQuickSound.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnTimedInterval.cs" />
     <Compile Include="Assets/[Scripts]/Actions/TeleportPlayer.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnPull.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs" />
     <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/ReachPoint.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleLight.cs" />
     <Compile Include="Assets/[Scripts]/Actions/LoadScene.cs" />
     <Compile Include="Assets/Settings/[Scripts]/StartupXRCheck.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs" />
     <Compile Include="Assets/[Scripts]/Controls/XRSlider.cs" />
     <Compile Include="Assets/[Scripts]/Actions/CreateTrail.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetInteractionLayer.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs" />
     <Compile Include="Assets/[Scripts]/Actions/PlayContinuousSound.cs" />
     <Compile Include="Assets/[Scripts]/Controls/XRKnob.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleRay.cs" />
     <Compile Include="Assets/[Scripts]/Actions/RotateObject.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetLightColor.cs" />
     <Compile Include="Assets/Settings/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/[Scripts]/Actions/PlayAnimation.cs" />
     <Compile Include="Assets/[Scripts]/Actions/LaunchProjectile.cs" />
     <Compile Include="Assets/[Scripts]/FollowScript.cs" />
     <Compile Include="Assets/[Scripts]/Actions/FadeCanvasOnOverlap.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnButtonPress.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ChangeMaterial.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleInterface.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SpawnObject.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs" />
     <Compile Include="Assets/[Scripts]/PhysicsHand.cs" />
     <Compile Include="Assets/[Scripts]/Actions/MoveWithVelocity.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetLightIntensity.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ToggleParticle.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnVelocity.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs" />
     <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/FishMotion.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ScaleObject.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SpawnFromList.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs" />
     <Compile Include="Assets/[Scripts]/Actions/PlaySoundsFromList.cs" />
     <Compile Include="Assets/[Scripts]/Conditions/OnJoystickMove.cs" />
     <Compile Include="Assets/DenysAlmaral/FishAlive/Scripts/SwimConfig.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetVolume.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs" />
     <Compile Include="Assets/[Scripts]/Actions/SetMaterialColor.cs" />
     <Compile Include="Assets/Settings/[VR]/Scripts/InheritTransform.cs" />
     <Compile Include="Assets/[Scripts]/Controls/XRJoystick.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs" />
     <Compile Include="Assets/[Scripts]/Actions/RemoveObjectsWithTag.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ConvertValueToHue.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs" />
     <Compile Include="Assets/[Scripts]/Actions/PlayVideo.cs" />
     <Compile Include="Assets/[Scripts]/Controls/XRLever.cs" />
     <Compile Include="Assets/[Scripts]/Actions/StickToObject.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs" />
     <Compile Include="Assets/vinicius develops/Wobble Effect/Sample Scene/CameraController.cs" />
     <Compile Include="Assets/[Scripts]/Actions/MatchRotation.cs" />
     <Compile Include="Assets/[Scripts]/Actions/LookAtPlayer.cs" />
     <Compile Include="Assets/Settings/Scripts/TeleportPoint.cs" />
     <Compile Include="Assets/[Scripts]/Controls/XRButton.cs" />
     <Compile Include="Assets/[Scripts]/Actions/ShowMessageFromList.cs" />
+    <Compile Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/Sprite-WobbleFx.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/Projectors/Guidelines.txt" />
     <None Include="Assets/DenysAlmaral/FishAlive/URP&amp;Built-in/Readme.txt" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/WobbleFx_Overlay.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader" />
     <None Include="Assets/Settings/VFX/ColumnGlow.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader" />
     <None Include="Assets/LoafbrrAssets/MInesAndCaveSet/README.txt" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/Sprite-WobbleFx_Screen.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceRaytrace.cginc" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/WobbleFx.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader" />
     <None Include="Assets/vinicius develops/README.txt" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/Sprite-WobbleFx_Overlay.shader" />
     <None Include="Assets/DenysAlmaral/FishAlive/Readme_FreeSamples.txt" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" />
     <None Include="Assets/SkySeries Freebie/Hdri setup.txt" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader" />
     <None Include="Assets/vinicius develops/Wobble Effect/Shaders/WobbleFx_Screen.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader" />
+    <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -181,6 +296,14 @@
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.ContentLoadModule">
@@ -393,6 +516,10 @@
     </Reference>
     <Reference Include="UnityEngine.VideoModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.31f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.WindModule">
