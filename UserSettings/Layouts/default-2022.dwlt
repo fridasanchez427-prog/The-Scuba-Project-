@@ -14,17 +14,387 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+    x: 391
+    y: 178
+    width: 800
+    height: 573
+  m_ShowMode: 0
+  m_Title: Package Manager
+  m_RootView: {fileID: 8}
+  m_MinSize: {x: 800, y: 271}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_Maximized: 0
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 385
+    y: 284
+    width: 950
+    height: 560
+  m_ShowMode: 0
+  m_Title: Search
+  m_RootView: {fileID: 10}
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_Maximized: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 440
+    y: 472
+    width: 902
+    height: 573
+  m_ShowMode: 0
+  m_Title: XRI Default Input Actions (Input Actions)
+  m_RootView: {fileID: 12}
+  m_MinSize: {x: 600, y: 321}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_Maximized: 0
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
     x: 0
-    y: 53
+    y: 62
     width: 1720
-    height: 982
+    height: 983
   m_ShowMode: 4
   m_Title: Scene
-  m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_RootView: {fileID: 17}
+  m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
---- !u!114 &2
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 37
+    y: 299
+    width: 951
+    height: 578
+  m_ShowMode: 0
+  m_Title: Project Settings
+  m_RootView: {fileID: 14}
+  m_MinSize: {x: 310, y: 221}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_Maximized: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 1303
+    y: 357
+    width: 320
+    height: 573
+  m_ShowMode: 0
+  m_Title: Polybrush
+  m_RootView: {fileID: 16}
+  m_MinSize: {x: 320, y: 201}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_Maximized: 0
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: PackageManagerWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 800
+    height: 573
+  m_MinSize: {x: 800, y: 271}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_ActualView: {fileID: 27}
+  m_Panes:
+  - {fileID: 27}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 800
+    height: 573
+  m_MinSize: {x: 800, y: 271}
+  m_MaxSize: {x: 4000, y: 4021}
+  vertical: 0
+  controlID: 52646
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: QuickSearch
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 950
+    height: 560
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_ActualView: {fileID: 28}
+  m_Panes:
+  - {fileID: 28}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 950
+    height: 560
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
+  vertical: 0
+  controlID: 24557
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InputActionEditorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 902
+    height: 573
+  m_MinSize: {x: 600, y: 300}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 29}
+  m_Panes:
+  - {fileID: 29}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 902
+    height: 573
+  m_MinSize: {x: 600, y: 321}
+  m_MaxSize: {x: 4000, y: 4021}
+  vertical: 0
+  controlID: 23597
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectSettingsWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 951
+    height: 578
+  m_MinSize: {x: 310, y: 221}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_ActualView: {fileID: 30}
+  m_Panes:
+  - {fileID: 30}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 13}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 951
+    height: 578
+  m_MinSize: {x: 310, y: 221}
+  m_MaxSize: {x: 4000, y: 4021}
+  vertical: 0
+  controlID: 141
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: PolybrushEditor
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 573
+  m_MinSize: {x: 320, y: 180}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 31}
+  m_Panes:
+  - {fileID: 31}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 15}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 573
+  m_MinSize: {x: 320, y: 201}
+  m_MaxSize: {x: 4000, y: 4021}
+  vertical: 0
+  controlID: 366
+--- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -37,22 +407,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 3}
-  - {fileID: 5}
-  - {fileID: 4}
+  - {fileID: 18}
+  - {fileID: 20}
+  - {fileID: 19}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
     width: 1720
-    height: 982
+    height: 983
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
   m_UseBottomView: 1
   m_BottomViewHeight: 20
---- !u!114 &3
+--- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -74,7 +444,7 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
---- !u!114 &4
+--- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -90,12 +460,12 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 962
+    y: 963
     width: 1720
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
---- !u!114 &5
+--- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -108,43 +478,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 6}
+  - {fileID: 21}
+  - {fileID: 26}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 30
     width: 1720
-    height: 932
-  m_MinSize: {x: 300, y: 100}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 1
-  controlID: 122
---- !u!114 &6
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children:
-  - {fileID: 7}
-  - {fileID: 12}
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1720
-    height: 932
+    height: 933
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 123
---- !u!114 &7
+  controlID: 12724
+--- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -157,19 +503,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 8}
-  - {fileID: 11}
+  - {fileID: 22}
+  - {fileID: 25}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1190.5
-    height: 932
+    width: 1327.5
+    height: 933
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 124
---- !u!114 &8
+  controlID: 12725
+--- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -182,19 +528,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 9}
-  - {fileID: 10}
+  - {fileID: 23}
+  - {fileID: 24}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1190.5
-    height: 546.5
+    width: 1327.5
+    height: 624
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 125
---- !u!114 &9
+  controlID: 12726
+--- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -211,16 +557,16 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 255.5
-    height: 546.5
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 14}
+    width: 459
+    height: 624
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 33}
   m_Panes:
-  - {fileID: 14}
+  - {fileID: 33}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &10
+--- !u!114 &24
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -235,19 +581,19 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 255.5
+    x: 459
     y: 0
-    width: 935
-    height: 546.5
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 13}
+    width: 868.5
+    height: 624
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 32}
   m_Panes:
-  - {fileID: 13}
-  - {fileID: 15}
-  m_Selected: 0
+  - {fileID: 34}
+  - {fileID: 32}
+  m_Selected: 1
   m_LastSelected: 1
---- !u!114 &11
+--- !u!114 &25
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -263,19 +609,19 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 546.5
-    width: 1190.5
-    height: 385.5
+    y: 624
+    width: 1327.5
+    height: 309
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 35}
   m_Panes:
-  - {fileID: 16}
-  - {fileID: 17}
-  - {fileID: 18}
+  - {fileID: 35}
+  - {fileID: 36}
+  - {fileID: 37}
   m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &12
+  m_LastSelected: 2
+--- !u!114 &26
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -290,19 +636,1142 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1190.5
+    x: 1327.5
     y: 0
-    width: 529.5
-    height: 932
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 19}
+    width: 392.5
+    height: 933
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 38}
   m_Panes:
-  - {fileID: 19}
-  - {fileID: 20}
+  - {fileID: 38}
+  - {fileID: 39}
   m_Selected: 0
   m_LastSelected: 1
---- !u!114 &13
+--- !u!114 &27
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13953, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 800, y: 250}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Package Manager
+    m_Image: {fileID: 5076950121296946556, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 391
+    y: 178
+    width: 800
+    height: 552
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+--- !u!114 &28
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13984, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Search
+    m_Image: {fileID: -7008343138469552579, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 385
+    y: 284
+    width: 950
+    height: 539
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_QueryTreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 36f0c696
+    m_LastClickedID: -1765347274
+    m_ExpandedIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+  m_ViewState:
+    providerIds:
+    - calculator
+    - find
+    - asset
+    - scene
+    - menu
+    - packages
+    - settings
+    - store
+    searchFlags: -1677721598
+    searchText: 
+    forceViewMode: 0
+    m_SelectHandler:
+      stream: 
+    m_TrackingHandler:
+      stream: 
+    m_FilterHandler:
+      stream: 
+    m_GroupChanged:
+      stream: 
+    m_ActiveQueryGuid: 
+    hideTabs: 0
+    sessionId: 94045b1b4f924a9b8727fb37049763f1
+    sessionName: 
+    excludeClearItem: 0
+    tableConfig:
+      id: 
+      name: 
+      columns: []
+    ignoreSaveSearches: 0
+    hideAllGroup: 0
+    windowTitle:
+      m_Text: 
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+    title: Unity
+    itemSize: 32
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 950
+      height: 539
+    flags: 0
+    group: all
+    queryBuilderEnabled: 0
+    m_ContextUseExplicitProvidersAsNormalProviders: 0
+  m_LastFocusedWindow: {fileID: 0}
+  m_SearchBoxFocus: 0
+  m_ContextHash: 1727359302
+  searchEventStatus: 1
+  m_FilterSearchQueryToggle: 0
+  activeSearchQuery:
+    m_GUID: 1a531090ded74244b4f7b20dc91ef4dc
+    m_Thumbnail: {fileID: 0}
+    m_IsSearchTemplate: 0
+    description: 
+    name: 
+    viewState:
+      providerIds:
+      - calculator
+      - find
+      - asset
+      - scene
+      - menu
+      - packages
+      - settings
+      - store
+      searchFlags: -1744830464
+      searchText: 
+      forceViewMode: 0
+      m_SelectHandler:
+        stream: 
+      m_TrackingHandler:
+        stream: 
+      m_FilterHandler:
+        stream: 
+      m_GroupChanged:
+        stream: 
+      m_ActiveQueryGuid: 
+      hideTabs: 0
+      sessionId: 7a32badecb354e6ebf7452d19383b79b
+      sessionName: 
+      excludeClearItem: 0
+      tableConfig:
+        id: 
+        name: 
+        columns: []
+      ignoreSaveSearches: 0
+      hideAllGroup: 0
+      windowTitle:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      title: item
+      itemSize: 96
+      position:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      flags: 0
+      group: 
+      queryBuilderEnabled: 0
+      m_ContextUseExplicitProvidersAsNormalProviders: 0
+  m_LeftPanelScrollPosition: {x: 0, y: 0}
+  m_FocusSavedSearchField: 0
+  m_UndoManager:
+    m_UndoStack:
+      m_Buffer:
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      - text: 
+        cursorPos: 0
+        selectPos: 0
+      m_HeadIndex: 1
+      m_TailIndex: 0
+      m_CurrentIndex: 0
+    m_UndoLastTime: 0
+    m_RecentSearchIndex: -1
+    m_CurrentText: 
+--- !u!114 &29
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb55afc2c109f42f2af37941a8c9300e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 600, y: 300}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: XRI Default Input Actions (Input Actions)
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 440
+    y: 472
+    width: 902
+    height: 552
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_ActionMapsTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 951bc940
+    m_LastClickedID: 1086921621
+    m_ExpandedIDs: 00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+  m_ActionsTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: fa7866d9
+    m_LastClickedID: -647595782
+    m_ExpandedIDs: 6c69f4a3c6535ad241a488f74762d828
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 11}
+    m_SearchString: 
+  m_ControlPickerViewState:
+    m_AdvancedDropdownState:
+      states:
+      - itemId: 371857150
+        selectedIndex: 9
+        scroll: {x: 0, y: 0}
+    m_ManualPathEditMode: 0
+  m_ActionAssetManager:
+    m_AssetObjectForEditing: {fileID: 0}
+    m_ImportedAssetObject: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
+    m_AssetGUID: c348712bda248c246b8c49b3db54643f
+    m_ImportedAssetJson: "{\n    \"name\": \"XRI Default Input Actions\",\n    \"maps\":
+      [\n        {\n            \"name\": \"XRI Head\",\n            \"id\": \"09ff3ccc-21b4-4346-a3a2-7c978b5af892\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Position\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"1a9029f8-7a46-46b9-9eff-e9ae8365f611\",\n                   
+      \"expectedControlType\": \"Vector3\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Rotation\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"aed87fe6-2b01-4dd2-a8fa-195578fd8158\",\n                    \"expectedControlType\":
+      \"Quaternion\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"cff1f981-6e1f-4e2c-a90c-715a0ea2e80e\",\n                   
+      \"path\": \"<XRHMD>/centerEyePosition\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Position\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"e2017383-a3f6-4c46-acb1-012b8eece9cc\",\n                    \"path\":
+      \"<XRHMD>/centerEyeRotation\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotation\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                }\n            ]\n        },\n       
+      {\n            \"name\": \"XRI LeftHand\",\n            \"id\": \"5fe596f9-1b7b-49b7-80a7-3b5195caf74d\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Position\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"83a7af0b-87e3-42c3-a909-95fbf8091e4f\",\n                   
+      \"expectedControlType\": \"Vector3\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Rotation\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"cb6b7130-2bac-4ef7-abe4-6991ae7d419d\",\n                    \"expectedControlType\":
+      \"Quaternion\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Tracking State\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"d20fc51c-7916-43a7-8b03-706049966aea\",\n                   
+      \"expectedControlType\": \"Integer\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Haptic Device\",\n                    \"type\": \"PassThrough\",\n                   
+      \"id\": \"664a62b0-e178-421d-b3f8-014eec01591d\",\n                    \"expectedControlType\":
+      \"\",\n                    \"processors\": \"\",\n                    \"interactions\":
+      \"\",\n                    \"initialStateCheck\": false\n                }\n           
+      ],\n            \"bindings\": [\n                {\n                    \"name\":
+      \"Quaternion Fallback\",\n                    \"id\": \"61466a56-4ee4-47b1-aa6a-4806de1de5f2\",\n                   
+      \"path\": \"QuaternionFallback\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Rotation\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"first\",\n                    \"id\": \"afdcfbff-e241-4fdd-a6d1-23b0bf273360\",\n                   
+      \"path\": \"<XRController>{LeftHand}/pointerRotation\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Rotation\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"second\",\n                   
+      \"id\": \"ed03d944-4c09-4c38-8b68-5c844e18ca7c\",\n                    \"path\":
+      \"<XRController>{LeftHand}/deviceRotation\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Rotation\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"third\",\n                   
+      \"id\": \"c98fc8c8-7fc6-4909-89b6-c5b7568e7275\",\n                    \"path\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"processors\":
+      \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotation\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"Vector 3 Fallback\",\n                    \"id\": \"14aeff85-d719-43ff-a124-b1cd7ca8686d\",\n                   
+      \"path\": \"Vector3Fallback\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Position\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"first\",\n                    \"id\": \"abf752ec-feee-4d51-b530-f0870f48acc9\",\n                   
+      \"path\": \"<XRController>{LeftHand}/pointerPosition\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Position\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"second\",\n                   
+      \"id\": \"6580b669-0651-401c-9779-85ef22689130\",\n                    \"path\":
+      \"<XRController>{LeftHand}/devicePosition\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Position\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"third\",\n                   
+      \"id\": \"ae101942-9eaa-4c53-a388-cafc3fd89bdf\",\n                    \"path\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"processors\":
+      \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Position\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"acdf9550-5529-4ff7-8558-73ecdf0d75bd\",\n                   
+      \"path\": \"<XRController>{LeftHand}/*\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Haptic Device\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"97a0351f-659b-482a-8fa0-19015ccd055e\",\n                    \"path\":
+      \"<XRController>{LeftHand}/trackingState\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Tracking State\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      }\n            ]\n        },\n        {\n            \"name\": \"XRI LeftHand
+      Interaction\",\n            \"id\": \"7a5e7537-cc30-4eb1-a544-6946baa8f3eb\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Select\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"33754c03-48ec-46ef-9bc6-22ed6bfdd8e8\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Select Value\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"e6005f29-e4c1-4f3b-8bf7-3a28bab5ca9c\",\n                   
+      \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Activate\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"0c0991c5-d329-4afc-8892-1076b440477c\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Activate Value\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"0c3d0ec9-85a1-45b3-839b-1ca43f859ecd\",\n                   
+      \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"UI Press\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"7e1eced7-c774-4fe5-be8f-d8711f646d9e\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"UI Press Value\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"f241c1aa-1050-4338-b2bf-a4a47776693d\",\n                   
+      \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Rotate Anchor\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"21b75b25-12ad-410f-b4f8-a7745b7aca27\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Translate Anchor\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"bfa204c7-3c92-4193-bad1-39eb71920042\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"71a4d23f-3e9a-4513-923b-ba388c5e84bf\",\n                   
+      \"path\": \"<XRController>{LeftHand}/gripPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Select\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"49a23327-a116-48c0-8af9-0d2c50c15a88\",\n                    \"path\":
+      \"<XRController>{LeftHand}/grip\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Select Value\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"487f4f2e-9e9b-49aa-b0f2-4037a24624f5\",\n                   
+      \"path\": \"<XRController>{LeftHand}/triggerPressed\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Activate\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"3b8b1b59-2fdc-4998-8259-50341075d9a2\",\n                    \"path\":
+      \"<XRController>{LeftHand}/trigger\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Activate Value\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"b34c79c1-ab5e-4851-87ac-abc43705eae0\",\n                    \"path\":
+      \"<XRController>{LeftHand}/triggerPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"UI Press\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"71d94579-1bf4-4034-ab9e-e7166842128f\",\n                    \"path\":
+      \"<XRController>{LeftHand}/trigger\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"UI Press Value\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"2D Vector\",\n                   
+      \"id\": \"de8136fd-5b07-4794-bb96-63c6027cf1b6\",\n                    \"path\":
+      \"2DVector(mode=2)\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"StickDeadzone\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Rotate Anchor\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"up\",\n                    \"id\": \"529c0dda-d254-4a71-8aa8-7dbdeabbe45d\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"down\",\n                    \"id\": \"dad37c56-3fcd-4890-98bf-e06f80ba76ff\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"left\",\n                    \"id\": \"e0dd3431-14bb-4817-ac71-ed700d5af1ca\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis/x\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(min=-1),Invert\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Rotate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"right\",\n                    \"id\": \"0064f189-a00e-4cf8-9f53-be76a30cb97f\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis/x\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(max=1)\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Rotate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"2D Vector\",\n                    \"id\": \"44d142b3-f6ac-4d08-8bd1-fac53cf9bb9e\",\n                   
+      \"path\": \"2DVector(mode=2)\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"StickDeadzone\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Translate Anchor\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"up\",\n                    \"id\": \"b1dbcb6a-408c-413c-b2d1-7a10fe418324\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis/y\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(max=1)\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Translate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"down\",\n                    \"id\": \"0e38a62a-8bee-4853-b87a-1af460e3ec33\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis/y\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(min=-1),Invert\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Translate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"left\",\n                    \"id\": \"2f25805f-44a3-4716-983c-532473bcc03c\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Translate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"right\",\n                    \"id\": \"d97ccaa1-79ae-4ca7-b7dd-be5ce92c94a6\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Translate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                }\n            ]\n        },\n       
+      {\n            \"name\": \"XRI LeftHand Locomotion\",\n            \"id\":
+      \"22336389-9fb1-4c2c-8635-0ed30db0d29e\",\n            \"actions\": [\n               
+      {\n                    \"name\": \"Teleport Select\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"cbeaf823-3b69-4004-8ec8-13ea2ca3fc31\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Teleport Mode Activate\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"a21db72c-4843-4839-b4d0-3ce8d287cb86\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Teleport Mode Cancel\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"89ce8348-6001-41a3-85b9-f8f2e2dcad7c\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Turn\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"9164e093-ebd4-4923-af32-1b52f31c2d66\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Move\",\n                    \"type\": \"Value\",\n                    \"id\":
+      \"9693e25f-8a4f-4aed-842f-3961243c69a1\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"95fa1419-ca7b-4c8a-8d15-7d46e58d82e3\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector(directions=-1,sweepBehavior=3)\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Noncontinuous Move\",\n                   
+      \"action\": \"Teleport Select\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"8da6ed3a-f621-49fe-8c76-1f6b7d7754d6\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector(directions=1)\",\n                    \"processors\":
+      \"\",\n                    \"groups\": \"Noncontinuous Move\",\n                   
+      \"action\": \"Teleport Mode Activate\",\n                    \"isComposite\":
+      false,\n                    \"isPartOfComposite\": false\n                },\n               
+      {\n                    \"name\": \"\",\n                    \"id\": \"b8aebee7-fa03-43d4-bfb7-77a3f87452cc\",\n                   
+      \"path\": \"<XRController>{LeftHand}/gripPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Teleport Mode
+      Cancel\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"99cb7ad1-51ec-4611-af68-92a85f2c17d6\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Noncontinuous Move\",\n                   
+      \"action\": \"Turn\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"8e383b1a-270f-4c20-819b-89a59cffb498\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"StickDeadzone\",\n                   
+      \"groups\": \"Continuous Move\",\n                    \"action\": \"Move\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      }\n            ]\n        },\n        {\n            \"name\": \"XRI LeftHand
+      Teleport\",\n            \"id\": \"aa821f4e-f721-48f5-a165-0b0de75e04cf\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Teleport
+      Select\",\n                    \"type\": \"Button\",\n                    \"id\":
+      \"8d89b69e-7a2a-48c0-97a3-2a8dab0d4083\",\n                    \"expectedControlType\":
+      \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Teleport Mode Activate\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"ba6ec717-5f9d-48a3-94e9-271246e450f2\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Teleport Mode Cancel\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"65f44acf-8cc8-4190-998a-58c37f5e3c85\",\n                    \"expectedControlType\":
+      \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"2d69a25e-366b-4b2e-885a-2cb7fc6ac9b7\",\n                   
+      \"path\": \"<XRController>/secondaryButton\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Noncontinuous Move\",\n                    \"action\": \"Teleport Select\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"551c9a06-8512-4db5-9dbd-8692c40f56fa\",\n                    \"path\":
+      \"<XRController>{LeftHand}/Primary2DAxis\",\n                    \"interactions\":
+      \"Sector(directions=1)\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Noncontinuous Move\",\n                    \"action\": \"Teleport
+      Mode Activate\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"a94a8872-df4b-45cc-a3ed-c85c0d347d6e\",\n                   
+      \"path\": \"<XRController>{LeftHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Noncontinuous Move\",\n                    \"action\": \"Teleport
+      Mode Cancel\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                }\n            ]\n        },\n       
+      {\n            \"name\": \"XRI RightHand\",\n            \"id\": \"7960f8ef-2bf3-4281-aecc-4c03809d6c8c\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Position\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"c4990d70-7b8a-4ce1-b03c-da86716b8352\",\n                   
+      \"expectedControlType\": \"Vector3\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Rotation\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"ee6bf5bf-bb0a-4a50-8327-cb654b19e298\",\n                    \"expectedControlType\":
+      \"Quaternion\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Tracking State\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"167ea203-5bfb-4d74-bde9-8026b7483102\",\n                   
+      \"expectedControlType\": \"Integer\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Haptic Device\",\n                    \"type\": \"PassThrough\",\n                   
+      \"id\": \"57b2a1b4-3290-46d6-ac07-4854ee8f91b1\",\n                    \"expectedControlType\":
+      \"\",\n                    \"processors\": \"\",\n                    \"interactions\":
+      \"\",\n                    \"initialStateCheck\": false\n                }\n           
+      ],\n            \"bindings\": [\n                {\n                    \"name\":
+      \"Quaternion Fallback\",\n                    \"id\": \"84e51e1c-1b95-4f3e-a61f-29da6c1f0816\",\n                   
+      \"path\": \"QuaternionFallback\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Rotation\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"first\",\n                    \"id\": \"3722d501-eb80-4f61-9361-08a5ea7a1394\",\n                   
+      \"path\": \"<XRController>{RightHand}/pointerRotation\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Rotation\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"second\",\n                   
+      \"id\": \"2e6ad191-d5aa-4919-aac6-295c83387a72\",\n                    \"path\":
+      \"<XRController>{RightHand}/deviceRotation\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Rotation\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"third\",\n                   
+      \"id\": \"b9ecb60d-341e-47cf-b50a-41d5815af8b0\",\n                    \"path\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"processors\":
+      \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotation\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"Vector 3 Fallback\",\n                    \"id\": \"74e968f1-ad08-4a82-a68d-764517faecef\",\n                   
+      \"path\": \"Vector3Fallback\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Position\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"first\",\n                    \"id\": \"9717e367-64a4-440a-9974-1e641d753eb2\",\n                   
+      \"path\": \"<XRController>{RightHand}/pointerPosition\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Position\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"second\",\n                   
+      \"id\": \"0794a41d-29ef-48ec-a452-6b7de29b52fa\",\n                    \"path\":
+      \"<XRController>{RightHand}/devicePosition\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Position\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": true\n               
+      },\n                {\n                    \"name\": \"third\",\n                   
+      \"id\": \"3ef0a781-60c5-48bc-a584-f95553f8ae0a\",\n                    \"path\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"processors\":
+      \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Position\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"6011e1e6-b2dd-4cb1-8da5-29b03868f2c5\",\n                   
+      \"path\": \"<XRController>{RightHand}/*\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Haptic Device\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"03ccbaec-eeca-4fc4-8281-ee1758b4eb9b\",\n                    \"path\":
+      \"<XRController>{RightHand}/trackingState\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Tracking State\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      }\n            ]\n        },\n        {\n            \"name\": \"XRI RightHand
+      Interaction\",\n            \"id\": \"461bce25-7762-40c5-b639-f190649be6d6\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Select\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"ac96c10b-c955-4a46-8e67-bf16bc069b53\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Select Value\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"39bbf1ac-21a3-413d-90f6-6dbf6efeaabe\",\n                   
+      \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Activate\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"41976d89-60de-4deb-bff9-16b4af96b290\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Activate Value\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"c3ca6ed7-3d25-44a2-b1d8-5be4eb699370\",\n                   
+      \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"UI Press\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"65174b45-c2ee-4f90-93bb-fb4084eaaab3\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"UI Press Value\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"962ac033-ec42-4981-88a4-551ad9be6ecb\",\n                   
+      \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Rotate Anchor\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"9b5d8312-f609-4895-b70f-81a722b2ae11\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Translate Anchor\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"6f7cf253-7062-443b-b10f-2be48a33f027\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"1ce80054-410d-4112-a332-50faa7fb4f23\",\n                   
+      \"path\": \"<XRController>{RightHand}/gripPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Select\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"dd433817-216c-46b9-8dd3-f3a4ea1767b9\",\n                    \"path\":
+      \"<XRController>{RightHand}/grip\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Select Value\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"fa59aed1-ae0b-4074-a58c-294b85f46228\",\n                    \"path\":
+      \"<XRController>{RightHand}/triggerPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Activate\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"150f414f-61bf-47b1-b4f8-f772a2a40565\",\n                    \"path\":
+      \"<XRController>{RightHand}/trigger\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Activate Value\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"92bb5b8f-bf48-4dab-af05-50a865773895\",\n                    \"path\":
+      \"<XRController>{RightHand}/triggerPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"UI Press\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"5b4ef08d-9ddd-4f0a-8539-d1114d14d143\",\n                    \"path\":
+      \"<XRController>{RightHand}/trigger\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"UI Press Value\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"2D Vector\",\n                   
+      \"id\": \"61502e80-1b21-4116-890c-c0bc31c9dffd\",\n                    \"path\":
+      \"2DVector(mode=2)\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"StickDeadzone\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Rotate Anchor\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"up\",\n                    \"id\": \"2b466c01-134f-40f2-b376-f7e9684e423b\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"down\",\n                    \"id\": \"79757cb3-5b81-4a3d-bc3c-d2582f85d5db\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Rotate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"left\",\n                    \"id\": \"76425f70-54b8-4f8e-ad52-94debc75962c\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis/x\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(min=-1),Invert\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Rotate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"right\",\n                    \"id\": \"8df952de-cf29-4b5e-9a90-a6b4eee7f52c\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis/x\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(max=1)\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Rotate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"2D Vector\",\n                    \"id\": \"a4b1434f-f204-49c4-bcea-c25e321e93eb\",\n                   
+      \"path\": \"2DVector(mode=2)\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"StickDeadzone\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Translate Anchor\",\n                    \"isComposite\": true,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"up\",\n                    \"id\": \"4ced8328-f738-4bbd-937a-c09019acd234\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis/y\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(max=1)\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Translate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"down\",\n                    \"id\": \"f7e89e7c-f5a9-4f42-914f-945815a49033\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis/y\",\n                   
+      \"interactions\": \"\",\n                    \"processors\": \"Clamp(min=-1),Invert\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Translate
+      Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"left\",\n                    \"id\": \"df3b3e57-34c6-4200-b00e-6617123a9680\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Translate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                },\n                {\n                   
+      \"name\": \"right\",\n                    \"id\": \"54ddc99c-3e9a-4c3a-9fdd-f5fb15952af4\",\n                   
+      \"path\": \"\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Translate Anchor\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": true\n                }\n            ]\n        },\n       
+      {\n            \"name\": \"XRI RightHand Locomotion\",\n            \"id\":
+      \"99ce76d3-82c5-4289-9670-2ecffa6833fd\",\n            \"actions\": [\n               
+      {\n                    \"name\": \"Teleport Select\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"02e43582-8973-4940-af06-dff6158e3df2\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Teleport Mode Activate\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"a6c7231d-c55d-4dd4-9e87-877bb5522ef5\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Teleport Mode Cancel\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"d587b60c-39a0-4365-8075-477ce484ba0f\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Turn\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"9fb2eb2b-2fb6-4328-8167-10a1bf11b424\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Move\",\n                    \"type\": \"Value\",\n                    \"id\":
+      \"00a4dc9f-1ee6-4349-b0e9-72d5dccaadd6\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"919c4a6c-22ed-4083-8e14-f30e91ff59fe\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector(directions=-1,sweepBehavior=3)\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Teleport Select\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"62690862-4688-4010-975b-b3d9c6062157\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector(directions=1)\",\n                    \"processors\":
+      \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Teleport Mode Activate\",\n                    \"isComposite\":
+      false,\n                    \"isPartOfComposite\": false\n                },\n               
+      {\n                    \"name\": \"\",\n                    \"id\": \"de466e6e-12bf-46a1-b0fd-ffbc343f3399\",\n                   
+      \"path\": \"<XRController>{RightHand}/gripPressed\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Teleport Mode
+      Cancel\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"d6c08c3d-3d41-4695-994d-1ac9016a5a9e\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"Generic XR Controller\",\n                   
+      \"action\": \"Turn\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                }\n            ]\n        },\n       
+      {\n            \"name\": \"XRI RightHand Teleport\",\n            \"id\": \"563c701f-fcd8-4883-8f52-21187d5c2a57\",\n           
+      \"actions\": [\n                {\n                    \"name\": \"Teleport
+      Select\",\n                    \"type\": \"Button\",\n                    \"id\":
+      \"e9fb0a66-1f9b-45de-b30b-e2e0062f7329\",\n                    \"expectedControlType\":
+      \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"Teleport Mode Activate\",\n                   
+      \"type\": \"Value\",\n                    \"id\": \"4013a9d8-0bd3-4187-a755-14a5afe78390\",\n                   
+      \"expectedControlType\": \"Vector2\",\n                    \"processors\":
+      \"\",\n                    \"interactions\": \"\",\n                    \"initialStateCheck\":
+      true\n                },\n                {\n                    \"name\":
+      \"Teleport Mode Cancel\",\n                    \"type\": \"Value\",\n                   
+      \"id\": \"52aa4628-ce6d-4f31-9304-996c0b230345\",\n                    \"expectedControlType\":
+      \"Vector2\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      }\n            ],\n            \"bindings\": [\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"018e5efd-8c42-4a6f-b931-71c8cad7a981\",\n                   
+      \"path\": \"<XRController>/secondaryButton\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"Generic XR Controller\",\n                    \"action\": \"Teleport Select\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"9ac60e90-bc6d-4f03-a853-3396ee8c49fc\",\n                    \"path\":
+      \"<XRController>{RightHand}/Primary2DAxis\",\n                    \"interactions\":
+      \"Sector(directions=1)\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Teleport
+      Mode Activate\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"14841820-9c91-4def-8e9a-579f5cc1544e\",\n                   
+      \"path\": \"<XRController>{RightHand}/Primary2DAxis\",\n                   
+      \"interactions\": \"Sector\",\n                    \"processors\": \"\",\n                   
+      \"groups\": \"Generic XR Controller\",\n                    \"action\": \"Teleport
+      Mode Cancel\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                }\n            ]\n        }\n   
+      ],\n    \"controlSchemes\": [\n        {\n            \"name\": \"Generic XR
+      Controller\",\n            \"bindingGroup\": \"Generic XR Controller\",\n           
+      \"devices\": [\n                {\n                    \"devicePath\": \"<XRController>{LeftHand}\",\n                   
+      \"isOptional\": true,\n                    \"isOR\": false\n               
+      },\n                {\n                    \"devicePath\": \"<XRController>{RightHand}\",\n                   
+      \"isOptional\": true,\n                    \"isOR\": false\n               
+      },\n                {\n                    \"devicePath\": \"<XRController>\",\n                   
+      \"isOptional\": true,\n                    \"isOR\": false\n               
+      },\n                {\n                    \"devicePath\": \"<WMRHMD>\",\n                   
+      \"isOptional\": true,\n                    \"isOR\": false\n               
+      }\n            ]\n        },\n        {\n            \"name\": \"Continuous
+      Move\",\n            \"bindingGroup\": \"Continuous Move\",\n            \"devices\":
+      [\n                {\n                    \"devicePath\": \"<XRController>{LeftHand}\",\n                   
+      \"isOptional\": false,\n                    \"isOR\": false\n               
+      },\n                {\n                    \"devicePath\": \"<XRController>{RightHand}\",\n                   
+      \"isOptional\": false,\n                    \"isOR\": false\n               
+      }\n            ]\n        },\n        {\n            \"name\": \"Noncontinuous
+      Move\",\n            \"bindingGroup\": \"Noncontinuous Move\",\n           
+      \"devices\": [\n                {\n                    \"devicePath\": \"<XRController>{LeftHand}\",\n                   
+      \"isOptional\": false,\n                    \"isOR\": false\n               
+      },\n                {\n                    \"devicePath\": \"<XRController>{RightHand}\",\n                   
+      \"isOptional\": false,\n                    \"isOR\": false\n               
+      }\n            ]\n        }\n    ]\n}"
+    m_IsDirty: 0
+  m_Toolbar:
+    m_IsDirty: 0
+    m_SelectedControlSchemeIndex: -1
+    m_SelectedDeviceRequirementIndex: -1
+    m_ControlSchemes:
+    - m_Name: Generic XR Controller
+      m_BindingGroup: Generic XR Controller
+      m_DeviceRequirements:
+      - m_ControlPath: <XRController>{LeftHand}
+        m_Flags: 1
+      - m_ControlPath: <XRController>{RightHand}
+        m_Flags: 1
+      - m_ControlPath: <XRController>
+        m_Flags: 1
+      - m_ControlPath: <WMRHMD>
+        m_Flags: 1
+    - m_Name: Continuous Move
+      m_BindingGroup: Continuous Move
+      m_DeviceRequirements:
+      - m_ControlPath: <XRController>{LeftHand}
+        m_Flags: 0
+      - m_ControlPath: <XRController>{RightHand}
+        m_Flags: 0
+    - m_Name: Noncontinuous Move
+      m_BindingGroup: Noncontinuous Move
+      m_DeviceRequirements:
+      - m_ControlPath: <XRController>{LeftHand}
+        m_Flags: 0
+      - m_ControlPath: <XRController>{RightHand}
+        m_Flags: 0
+    m_SearchText: 
+  m_DirtyTitle:
+    m_Text: (*) XRI Default Input Actions (Input Actions)
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Title:
+    m_Text: XRI Default Input Actions (Input Actions)
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+--- !u!114 &30
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13854, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 310, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Project Settings
+    m_Image: {fileID: 866346219090771560, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 37
+    y: 299
+    width: 951
+    height: 557
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_PosLeft: {x: 0, y: 0}
+  m_PosRight: {x: 0, y: 129.98303}
+  m_Scope: 1
+  m_SplitterFlex: 0.2
+  m_SearchText: 
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: e594f01a
+    m_LastClickedID: 451974373
+    m_ExpandedIDs: 53336be2000000004f0a7f2e
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+--- !u!114 &31
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c5d778300bf074c818ef8ea6e3062b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 320, y: 180}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Polybrush
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1303
+    y: 357
+    width: 320
+    height: 552
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  modes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  brushSettingsAsset: {fileID: 11400000, guid: 53a723577b90249a4a6094757bd179ba, type: 2}
+--- !u!114 &32
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -323,10 +1792,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 255.5
-    y: 83
-    width: 933
-    height: 525.5
+    x: 459
+    y: 92
+    width: 866.5
+    height: 603
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -698,9 +2167,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -39.794243, y: 33.85629, z: 30.723309}
+    m_Target: {x: -168.83315, y: 88.01531, z: 32.827965}
     speed: 2
-    m_Value: {x: -39.794243, y: 33.85629, z: 30.723309}
+    m_Value: {x: -168.83315, y: 88.01531, z: 32.827965}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -746,20 +2215,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.22673108, y: -0.6227755, z: 0.19675246, w: 0.7229035}
+    m_Target: {x: -0.6000805, y: 0.33989337, z: -0.31203824, w: -0.6534651}
     speed: 2
-    m_Value: {x: 0.22666793, y: -0.62260205, z: 0.19669767, w: 0.72270215}
+    m_Value: {x: -0.6000779, y: 0.3398919, z: -0.3120369, w: -0.6534623}
   m_Size:
-    m_Target: 49.94723
+    m_Target: 1.2442821
     speed: 2
-    m_Value: 49.94723
+    m_Value: 1.2442821
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.0019134
-    m_SpeedNormalized: 0.5007071
+    m_Speed: 1.039324
+    m_SpeedNormalized: 0.51942176
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -777,7 +2246,7 @@ MonoBehaviour:
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
---- !u!114 &14
+--- !u!114 &33
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -799,9 +2268,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 83
-    width: 254.5
-    height: 525.5
+    y: 92
+    width: 458
+    height: 603
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -814,10 +2283,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 247.5}
-      m_SelectedIDs: 12970000
-      m_LastClickedID: 38674
-      m_ExpandedIDs: 6afaffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: b2be0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 0881eaff808beaff9a5dedff18faedff6095f1ff9096f1ffd8a4f1ff68b3f1ff98b4f1ffdcc2f1ffe0cef1ff10d0f1ff54def1ff84ebf1ffb4ecf1fff8faf1ff3809f2ff680af2ffac18f2ffc82af2fff82bf2ff5a3af2ffae47f2ffde48f2ff3e57f2ff1269f2ff426af2ffa278f2ffbc8ff2ffec90f2ff4e9ff2ff6eb4f2ff9eb5f2ff00c4f2ff6ed1f2ff9ed2f2fffee0f2ffae2ff3ffe630f3ff2a3ff3ff124ff3ff4250f3ffa45ef3ff426ef3ff726ff3ffd47df3ff1e8bf3ff4e8cf3ff929af3ff7eaef3ffaaaff3ff0abef3ff60d2f3ff8cd3f3ffeee1f3ff30eff3ff5cf0f3ffc0fef3ff801ff4ffac20f4ff0c2ff4ffb4b9f9ffe0baf9ff60c8f9ff3605faff6206faffe213faffba5afaffe85bfaff6869faffe28efaff1290faff8e9dfaffe0a5fbff10a7fbff90b4fbfffc43fcff3045fcffb052fcff165efcffdeaefcff14b0fcff4ab8fcff72f4fcff6c0ffdffa010fdff8017fdff6888fdff8aa8fdffbea9fdffbeaffdff7617ffffa218ffff9e1effff9645ffffc246ffffc24cffff3c61ffff6862ffff8468ffff4abcffff78bdffff96c3ffffb8d0ffffe4d1ffffe4d7ffff1ceaffff7aebffff98f1ffff52f9ffffb4bb0000d0d800007c4a01007c4c0100004d0100445f0100d2640100f0a101009cc1010098c7010054fa010002330200fe3802009eb402001224030032b1030082cf0300f8030400f6060400720c040014940400
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -833,7 +2302,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 9}
+        m_ClientGUIView: {fileID: 23}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -841,7 +2310,7 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4c969a2b90040154d917609493e03593
---- !u!114 &15
+--- !u!114 &34
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -863,9 +2332,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 255.5
-    y: 83
+    y: 93
     width: 933
-    height: 525.5
+    height: 526
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -882,7 +2351,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 933, y: 504.5}
+  m_TargetSize: {x: 933, y: 505}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -899,8 +2368,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -233.25
     m_HBaseRangeMax: 233.25
-    m_VBaseRangeMin: -126.125
-    m_VBaseRangeMax: 126.125
+    m_VBaseRangeMin: -126.25
+    m_VBaseRangeMax: 126.25
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -919,9 +2388,9 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 933
-      height: 504.5
+      height: 505
     m_Scale: {x: 2, y: 2}
-    m_Translation: {x: 466.5, y: 252.25}
+    m_Translation: {x: 466.5, y: 252.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -929,18 +2398,18 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -233.25
-      y: -126.125
+      y: -126.25
       width: 466.5
-      height: 252.25
+      height: 252.5
     m_MinimalGUI: 1
   m_defaultScale: 2
-  m_LastWindowPixelSize: {x: 1866, y: 1051}
+  m_LastWindowPixelSize: {x: 1866, y: 1052}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: -1
   m_RenderTexture: {fileID: 0}
---- !u!114 &16
+--- !u!114 &35
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -962,9 +2431,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 629.5
-    width: 1189.5
-    height: 364.5
+    y: 716
+    width: 1326.5
+    height: 288
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -976,9 +2445,8 @@ MonoBehaviour:
     m_SaveData: []
     m_OverlaysVisible: 1
   m_SearchFilter:
-    m_NameFilter: cave
-    m_ClassNames:
-    - Prefab
+    m_NameFilter: 
+    m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_ReferencingInstanceIDs: 
@@ -987,24 +2455,24 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/[Prefabs]/Environment
+    - Assets/[Scenes]
     m_Globs: []
-    m_OriginalText: t:Prefab cave
+    m_OriginalText: 
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/[Prefabs]/Environment
+  - Assets/[Scenes]
   m_LastFoldersGridSize: 96
   m_LastProjectPath: /Users/missionbit/Documents/GitHub/The-Scuba-Project-
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fe9b0000
-    m_LastClickedID: 39934
-    m_ExpandedIDs: 00000000d27b0000d47b0000d67b0000ce7d000000ca9a3b
+    scrollPos: {x: 0, y: 538.9157}
+    m_SelectedIDs: f0760000
+    m_LastClickedID: 30448
+    m_ExpandedIDs: 00000000e8760000f8760000fa760000047700000677000000070100444302004643020088bb0400babb04007abd040014be04000ac004000ec00400d2c00400fac5040000d5040036d8040000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1020,7 +2488,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 25}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1032,7 +2500,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d27b0000d47b0000d67b0000
+    m_ExpandedIDs: 00000000e876000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1060,7 +2528,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: f27d0000
+    m_ExpandedInstanceIDs: f27d000000000000c8c30400c4c30400c0c304003ac204003cc2040098bd0400
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1076,7 +2544,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 25}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1084,11 +2552,11 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 89.00055}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 275
---- !u!114 &17
+  m_DirectoriesAreaWidth: 209
+--- !u!114 &36
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1110,9 +2578,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 638
-    width: 1189.5
-    height: 365
+    y: 716
+    width: 1326.5
+    height: 288
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1123,7 +2591,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
     m_OverlaysVisible: 1
---- !u!114 &18
+--- !u!114 &37
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1144,9 +2612,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 690.5
-    width: 1234.5
-    height: 308.5
+    y: 716
+    width: 1326.5
+    height: 288
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1158,7 +2626,7 @@ MonoBehaviour:
     m_SaveData: []
     m_OverlaysVisible: 1
   mForceToOpen: 0
---- !u!114 &19
+--- !u!114 &38
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1179,10 +2647,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1190.5
-    y: 83
-    width: 528.5
-    height: 911
+    x: 1327.5
+    y: 92
+    width: 391.5
+    height: 912
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1196,7 +2664,7 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: 317
+    m_CachedPref: -307
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
@@ -1206,7 +2674,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
---- !u!114 &20
+--- !u!114 &39
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
