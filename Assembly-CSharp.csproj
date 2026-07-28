@@ -274,6 +274,7 @@
     <None Include="Assets/Free_Rocks/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" />
     <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets/LudoLoon Studio/Pause-Save Menu Music/Readme.txt" />
     <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader" />
     <None Include="Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" />
     <None Include="Assets/SkySeries Freebie/Hdri setup.txt" />
