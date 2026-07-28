@@ -9,7 +9,7 @@ Font:
   m_Name: New Font
   serializedVersion: 5
   m_LineSpacing: 0.1
-  m_DefaultMaterial: {fileID: 0}
+  m_DefaultMaterial: {fileID: 2100000, guid: 1c57e2235b645df4d906171d7e611bc6, type: 2}
   m_FontSize: 0
   m_Texture: {fileID: 0}
   m_AsciiStartOffset: 0
